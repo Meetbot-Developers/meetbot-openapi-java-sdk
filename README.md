@@ -40,7 +40,7 @@ repositories {
 implementation 'com.meetbot:meetbot-openapi-java-sdk:1.0.0'
 ```
 
-源码仓库：[meetbot-sdk/meetbot-openapi-java-sdk](https://github.com/meetbot-sdk/meetbot-openapi-java-sdk)。
+源码仓库：[Meetbot-Developers/meetbot-openapi-java-sdk](https://github.com/Meetbot-Developers/meetbot-openapi-java-sdk)。
 
 ## 快速开始
 

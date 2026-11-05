@@ -37,9 +37,9 @@
     </developers>
 
     <scm>
-        <url>https://github.com/meetbot-sdk/meetbot-openapi-java-sdk</url>
-        <connection>scm:git:https://github.com/meetbot-sdk/meetbot-openapi-java-sdk.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/meetbot-sdk/meetbot-openapi-java-sdk.git</developerConnection>
+        <url>https://github.com/Meetbot-Developers/meetbot-openapi-java-sdk</url>
+        <connection>scm:git:https://github.com/Meetbot-Developers/meetbot-openapi-java-sdk.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/Meetbot-Developers/meetbot-openapi-java-sdk.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
